@@ -9,7 +9,7 @@ This Tools Is Support For All OS
 
 ### Termux 
 `pkg install git`</br>
-`pkg install python3`</br>
+`pkg install python`</br>
 `git clone https://github.com/adjiepramandana/hashtools`</br>
 `cd hashtools`</br>
 `chmod +x requirements.txt`</br>
