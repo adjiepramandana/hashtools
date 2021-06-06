@@ -12,9 +12,8 @@ This Tools Is Support For All OS
 `pkg install python`</br>
 `git clone https://github.com/adjiepramandana/hashtools`</br>
 `cd hashtools`</br>
-`chmod +x requirements.txt`</br>
 `pip install -r requirements.txt`</br>
-`python3 hashtool.py`
+`python hashtool.py`
 
 </br>
 
