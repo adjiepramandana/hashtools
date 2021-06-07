@@ -1,4 +1,4 @@
-# HashTools V1
+# HashTools V2 Now Release!
 
 
 Alat Hash Serbaguna Yang Mudah Digunakan Dan User Friendly
